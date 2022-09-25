@@ -1,0 +1,9 @@
+.center {
+  display: flex;
+  align-items: center;
+  justify-content: right;
+  height: 100vh;
+  background-color: yellow;
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
+  font-size: 150%;
+}
