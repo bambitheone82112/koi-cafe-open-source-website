@@ -1,2 +1,2 @@
 # koi-cafe-open-source-website
-The Koi Cafe Websites
+The Koi Cafe Website
